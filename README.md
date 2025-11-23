@@ -179,7 +179,7 @@ crop_002.jpg, PRE-MEDICAL
 * Fast inference
 * Strong generalization to unseen marksheets
 
-![Yolo](images\Yolo.png)
+![Yolo](images/Yolo.png)
 
 ## *6.2 CRNN (CNN + BiLSTM + CTC)*
 
